@@ -1,0 +1,99 @@
+# file space by Pratyush devlopers
+# for more info chekeout https://pratyushdevs.wordpress.com
+
+
+.__dir__{
+    @echo off 
+    x.set.OverflowError = False
+    set.OverflowError = False
+}
+
+.mit{
+    htb.acadmy(
+        set[
+            __name__: Pratyush
+            __ID__: Pratyush0898pk
+            __pass__: 123get
+            __web__: https://academy.hackthebox.com/
+            __site__: https://pratyushdevs.wordpress.com
+
+        ]
+    )
+}
+
+.mit{
+    git.hub(
+        set[
+            __name__: Pratyush
+            __ID__: Pratyush0898
+            __pass__: 123get
+            __web__: https://github.com/
+            __site__: https://pratyushdevs.wordpress.com
+
+        ]
+    )
+}
+
+.mit{
+    linked.in(
+        set[
+            __name__: Pratyush
+            __ID__: Pratyush kumar
+            __pass__: 123get
+            __web__: https://www.linkedin.com/
+            __site__: https://pratyushdevs.wordpress.com
+
+        ]
+    )
+}
+
+.__
+.__file__{
+    .pass
+    for * (
+        get.objet: javascript,
+        get.libray: node
+        get
+    )
+}
+
+def getattr(
+    __o: object,
+    __name: str,
+    /
+) -> Any: ...
+
+def getattr(
+    __o: object,
+    __name: str,
+    __default: None,
+    /
+) -> (Any | None): ...
+
+def getattr(
+    __o: object,
+    __name: str,
+    __default: bool,
+    /
+) -> (Any | bool): ...
+
+def getattr(
+    __o: object,
+    __name: str,
+    __default: list[Any],
+    /
+) -> (Any | list[Any]): ...
+
+def getattr(
+    __o: object,
+    __name: str,
+    __default: dict[Any, Any],
+    /
+) -> (Any | dict[Any, Any]): ...
+
+def getattr(
+    __o: object,
+    __name: str,
+    __default: _T@getattr,
+    /
+) -> (Any | _T@getattr):
